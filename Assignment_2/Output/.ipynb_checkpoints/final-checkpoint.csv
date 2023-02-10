@@ -1,0 +1,18 @@
+,rmse,mean_price,rmse_norm
+Apartment size,,,
+large apt,111.17,236.52,0.47
+small apt,68.18,144.71,0.47
+Type,,,
+condo,121.33,237.67,0.51
+guest suite,58.22,138.76,0.42
+home,76.34,138.69,0.55
+loft,118.22,226.66,0.52
+rental unit,80.27,168.96,0.48
+serviced apartment,84.32,286.66,0.29
+Borough,,,
+Bronx,50.61,112.67,0.45
+Brooklyn,71.03,152.43,0.47
+Manhattan,103.15,216.02,0.48
+Queens,56.76,122.59,0.46
+Staten Island,56.13,117.34,0.48
+All,84.09,173.55,0.48
